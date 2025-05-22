@@ -36,7 +36,7 @@ psql -U postgres -d dvdrental
 ```
 You should see 15 tables.
 
-### 4. Use pgAdmin 4 (Optional)
+### 4. Use pgAdmin 4
 - Open pgAdmin 4.
 - Connect to your local PostgreSQL server.
 - Create or refresh the `dvdrental` database.
