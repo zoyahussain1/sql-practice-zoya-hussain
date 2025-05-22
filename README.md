@@ -1,8 +1,5 @@
 # SQL Query Practice – dvdrental Database
 
-## Assignee
-**Zoya Hussain**
-
 ## Objective
 To build strong SQL skills using the PostgreSQL `dvdrental` sample database by practicing queries from simple data retrieval to advanced topics like window functions, set operations, and performance optimization.
 
